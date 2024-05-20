@@ -1,0 +1,52 @@
+h1{
+    background-color: blueviolet;
+    border-radius: 20px;
+    border:2px solid red;
+    text-align: center;
+}
+table{
+    text-align: center;
+    border-collapse: collapse;
+    color: black;
+}
+caption{
+    background-color: yellow;
+}
+.urchi{
+    background-color: red;
+}
+ .waks{
+    background-color: purple;
+ }
+ .chi{
+    background-color: green;
+ }
+ .bosh{
+    color: blue;
+ }
+ .po{
+    color: black;
+ }
+ button{
+    background-color: green;
+    width: 200px;
+ }
+.y{
+   width: 650px;
+   height: 400px;
+}
+ 
+ .x{
+    width: 650px;
+    height: 400px;
+ }
+
+ .z{
+width: 650px;
+height: 400px;
+ }
+
+ .s{
+   width: 650px;
+   height: 400px;
+ }
